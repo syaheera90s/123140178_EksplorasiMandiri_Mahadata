@@ -1,6 +1,5 @@
-# 123140178_EksplorasiMandiri_Mahadata
-
 Eksplorasi Mandiri Mahadata: Apache Spark untuk Prediksi Smart Grid
+
 Repositori ini berisi kode eksperimen replikasi parsial dari artikel jurnal "Big data resolving using Apache Spark for load forecasting and demand response in smart grid: A case study of Low Carbon London Project" (Ali et al., 2024).
 
 Lingkungan Eksekusi:
